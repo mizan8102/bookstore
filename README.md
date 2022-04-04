@@ -1,4 +1,4 @@
-# vue3test
+# LibrariWala
 
 ## Project setup
 ```
